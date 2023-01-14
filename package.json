@@ -4,12 +4,12 @@
   "description": "backbone for xhunter app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "xhunter-server"
   ],
-  "author": "anirudhmalik",
+  "author": "Ashiq Hussain",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.1",
